@@ -1,0 +1,176 @@
+.container{
+
+}
+.navbar{
+	background-color: #202020;
+	height: 35px;
+
+}
+nav li{
+	display: inline;
+	color:gray;
+	padding: 20px;
+	
+}
+
+.menubar{
+	background-color: #272930;
+	height: 62px;
+	
+}
+.brand{
+	float: left;
+    height: 62px;
+    margin-left: 100px;
+
+}
+.brand h2{
+	color: #fff;
+	font-style: bold;
+}
+.menu{
+	float: right;
+    margin-right: 100px;
+
+}
+ .menu ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+ .menu li{
+ 	float: left;
+}
+.menu li a{
+	display: block;
+	color: #fff;
+	text-align: center;
+	padding: 22px 30px;
+	text-decoration: none;
+}
+.menu li a:hover{
+	background-color: #111;
+}
+.header{
+	background-color: #108FC6;
+	height: 400px;
+
+	
+}
+.header h3{
+	color: #fff;
+	text-align: center;
+	padding: 46px;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+}
+.feature .feature1{
+	float: left;
+}
+.feature1{
+	
+	width: 250px;
+	margin-left: 40px;
+	margin-right: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+
+.mainbody{
+	background-color: #fff;
+	height: 700px;
+}
+ .step1{
+	background-color: #E2E1E1;
+	height: 350px;
+	border-bottom: 2px solid #BCBEC1;
+}
+.mainbody h3{
+	color: #000;
+	text-align: center;
+	padding: 18px;
+	margin: 0px;
+}
+.projects .project{
+	float: left;
+}
+.project img{
+	
+	border-radius: 12px;
+	width: 250px;
+	margin-left: 40px;
+	margin-right: 10px;
+	
+	text-align: center;
+}
+.step2{
+	background-color: #fff;
+	height: 350px;
+    padding-top: 25px;
+
+}
+.news .news1{
+	float: left;
+}
+.news1{
+	
+	width: 250px;
+	margin-left: 40px;
+	margin-right: 20px;
+	color: #000;
+	text-align: left;
+}
+
+.clientarea{
+	background-color: #0F9BCC;
+	height: 220px;
+}
+.clients .client{
+	float: left;
+}
+.clientarea h3{
+	color: #fff;
+	text-align: center;
+	padding: 26px;
+	margin: 0px;
+}
+.client img{
+	
+	border-radius: 5px;
+	width: 250px;
+	margin-left: 40px;
+	margin-right: 10px;
+	
+	
+}
+
+.footer{
+	background-color: #2A2B30;
+	height: 70px;
+}
+.designer{
+	float: left;
+	padding: 25px;
+	color: #fff;
+}
+.link a{
+	float: right;
+	padding: 25px;
+	color: #fff;
+	text-decoration: none;
+}
+span a {
+	
+	position: absolute;
+	right: 20px;
+    top: 1370px;
+	border:2px solid #000;
+	border-radius: 5px;
+	padding: 10px;
+}
+.clientarea a:hover{
+	background-color: pink;
+}
